@@ -1,0 +1,87 @@
+.My{
+    margin: 0px 650px;
+}
+
+
+.Hobby{
+    width: 600px;
+    height: 400px;
+    border: 5px solid black;
+    margin: 20px 400px;
+}
+
+.block1{
+    border: 10px solid green;
+    background-color: yellow;
+    margin: 20px auto;
+}
+.block1 p{
+    margin: auto 650px;
+}
+
+
+.learn{
+    width: 400px;
+    height: 400px; 
+    border: 5px solid black;
+    margin: 20px 500px;
+}
+.block2{
+    border: 10px solid green;
+    background-color: orange;
+    margin: 20px auto;
+}
+.block2 p{
+    margin: auto 650px;
+}
+
+
+.Friends{
+    width: 200px;
+    height: 400px; 
+    border: 5px solid black;
+    margin: 20px 600px;
+}
+.block3{
+    border: 10px solid green;
+    background-color: violet;
+    margin: 20px auto;
+}
+.block3 p{
+    margin: auto 650px;
+}
+
+.links{
+    border: 5px solid black;
+   
+}
+.sp{
+    margin: 0px 615px;
+}
+.f{
+     margin: 0px 5px;
+}
+.facebook{
+    width: 50px;
+    height: 50px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.i{
+    margin: 5px 5px;
+}
+.Instagram{
+    width: 50px;
+    height: 50px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.l{
+    margin: 5px 5px;
+}
+.linkedin{
+    width: 50px;
+    height: 50px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
