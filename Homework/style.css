@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    block-size: border-box;
+}
+table{
+    width: 200px;
+    height: 100px;
+}
+table, td, th{
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.home{
+    background-color: orange;
+}
+/* .ted{
+
+} */
+th{
+    color: white;
+}
+.ted:nth-child(2n+1){
+    background-color: violet;
+}
+.ted:nth-child(2n+2){
+    background-color: black;
+}
+.ted .te{
+    background-color: black;
+    color: white;
+}
+.ted .tg{
+    background-color: violet;
+    color: white;
+}
+.ted .sp{
+    background-color: white;
+}
+/* .te:nth-child(2n+1){
+    background-color: black;
+} 
+.te:nth-child(2n+2){
+    background-color: violet;
+} */
