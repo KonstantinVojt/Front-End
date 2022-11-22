@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    block-size: border-box;
+}
+body{
+    background-image: url('Dog-PNG-5.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+}
